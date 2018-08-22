@@ -63,7 +63,6 @@ public class MatrixMultiplication {
             }
             System.out.println("");
         }
-        System.out.println("");
     }
 
     /**
@@ -126,10 +125,10 @@ public class MatrixMultiplication {
 
         /*Test naive implementation*/
         long start = System.currentTimeMillis();
-        /*        double[][] matrixMul = matrixMul(a, b);
+        double[][] matrixMul = matrixMul(a, b);
         //printMat(matrixMul);
         System.out.println("Naive implementation:" + (System.currentTimeMillis() - start));
-        */
+        
 
         /*Tesing thread implementation*/
         int sections = 4;
