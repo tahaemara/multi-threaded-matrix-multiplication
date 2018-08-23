@@ -5,7 +5,7 @@ Multiplication of matrices is a core operation in neural network and especially 
 
 
 
-### Recommendd Reading
+### Recommended Reading
 
 https://petewarden.com/2015/04/20/why-gemm-is-at-the-heart-of-deep-learning/
 
