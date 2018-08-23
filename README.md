@@ -5,7 +5,7 @@ Multiplication of matrices is a core operation in neural network and especially 
 ### 
 
 <p align="center">
-<img  style="width:300px; height:130px;" src="https://github.com/tahaemara/multi-threaded-matrix-multiplication/blob/master/assets/results.png?raw=true" alt="" data-canonical-src="https://github.com/tahaemara/multi-threaded-matrix-multiplication/blob/master/assets/results.png?raw=true" /></p>
+<img  style="width:400px; height:150px;" src="https://github.com/tahaemara/multi-threaded-matrix-multiplication/blob/master/assets/results.png?raw=true" alt="" data-canonical-src="https://github.com/tahaemara/multi-threaded-matrix-multiplication/blob/master/assets/results.png?raw=true" /></p>
 
 
 ### Recommended Reading
