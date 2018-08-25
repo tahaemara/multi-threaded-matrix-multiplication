@@ -129,7 +129,7 @@ public class MatrixMultiplication {
         //printMat(matrixMul);
         System.out.println("Naive implementation:" + (System.currentTimeMillis() - start));
         
-
+        
         /*Tesing thread implementation*/
         int sections = 4;
         MatrixThread[] threads = new MatrixThread[sections*sections];
