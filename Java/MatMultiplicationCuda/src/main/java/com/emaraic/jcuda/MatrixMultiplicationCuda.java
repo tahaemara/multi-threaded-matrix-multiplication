@@ -102,7 +102,7 @@ class MatrixMultiplicationCuda {
         /* Allocate device memory for the matrices */
         JCublas.cublasAlloc(a.length, Sizeof.FLOAT, pa);
         JCublas.cublasAlloc(b.length, Sizeof.FLOAT, pb);
-        JCublas.cublasAlloc(c.length * 2000, Sizeof.FLOAT, pc);
+        JCublas.cublasAlloc(c.length, Sizeof.FLOAT, pc);
 
         /* Initialize the device matrices with the host matrices */
         JCublas.cublasSetVector(a.length, Sizeof.FLOAT, Pointer.to(a), 1, pa, 1);
