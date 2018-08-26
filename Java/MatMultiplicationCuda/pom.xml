@@ -21,6 +21,13 @@
             <artifactId>jcublas</artifactId>
             <version>0.9.0d</version>
         </dependency>
+        <!-- https://mvnrepository.com/artifact/org.bytedeco.javacpp-presets/cuda-platform -->
+        <dependency>
+            <groupId>org.bytedeco.javacpp-presets</groupId>
+            <artifactId>cuda-platform</artifactId>
+            <version>9.0-7.0-1.4.1</version>
+        </dependency>
+
     </dependencies>
     <name>MatMultiplicationCuda</name>
 </project>
