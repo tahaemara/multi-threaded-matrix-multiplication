@@ -7,7 +7,7 @@ Multiplication of matrices is a core operation in neural network and especially 
 <thead> 									
 	<tr><td></td> <td>Java</td> <td>C++</td> <td>Nd4j</td> <td>Jcuda</td><td>JavaCPP Presets for Cuda</td> <td> Pytorch (cuda)</td></tr> </thead>
 	 <tbody> 
-     	 <tr> <td>Naive</td> <td>154615 ms</td> <td>90288 m </td> <td rowspan="2">129 ms </td><td rowspan="2">0.0530 ms</td><td rowspan="2">1.2665 ms</td><td rowspan="2">0.0015 ms</td></tr> 
+     	 <tr> <td>Naive</td> <td>154615 ms</td> <td>90288 ms</td> <td rowspan="2">129 ms</td><td rowspan="2">0.0530 ms</td><td rowspan="2">1.2665 ms</td><td rowspan="2">0.0015 ms</td></tr> 
 	 <tr> <td>Multi-Threaded</td> <td>21307 ms !!</td> <td>51504 ms !! </td>  </tr> 
 </tbody></table>
 
